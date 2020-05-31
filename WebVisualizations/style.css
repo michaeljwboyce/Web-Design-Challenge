@@ -16,7 +16,7 @@ body{
 	padding: inherit; 
 	font-weight: bold; 
 	background-color: #4654a7;
-	font-family: Georgia, serif;
+	font-family: Arial, Helvetica, sans-serif;;
 }
 
 .dropdown-item{
@@ -79,7 +79,7 @@ button:focus {
 	color: #4654a7;
 	font-size: 26px;
 	font-weight: bold;
-	font-family: Georgia, Times, "Times New Roman", serif;
+	font-family: Arial, Helvetica, sans-serif;;
 }
 
 img{
